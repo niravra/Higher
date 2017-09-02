@@ -1,0 +1,37 @@
+ body{height:100%;
+   width:100%;
+   background-image:url(Image/Website-Design-Background.png);  
+   background-repeat:no-repeat; 
+   background-size:cover;     
+} 
+
+label{
+display:inline-block;
+width:200px;
+margin-right:30px;
+text-align:right;
+}
+
+button{
+    color: red;
+    background-color: black;
+    width: auto;
+    margin-left: 230px
+}
+
+h3{
+    text-align: left
+}
+
+img{
+    width: 80%;
+    height: 60%;
+    position: fixed
+}
+
+a{
+	
+	font-size: small;
+	float: right;
+	
+}

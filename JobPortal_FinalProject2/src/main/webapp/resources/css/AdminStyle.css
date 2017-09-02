@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+body{height:100%;
+   width:100%;
+   background-image:url(Image/webbackground2.jpg);/*your background image*/  
+   background-repeat:no-repeat;/*we want to have one single image not a repeated one*/  
+   background-size:cover;/*this sets the image to fullscreen covering the whole screen*/  
+   /*css hack for ie*/     
+}
+
+#td1{
+    resize: horizontal;
+    color: red
+}
+
+#td2{
+  text-transform: uppercase   
+}
+
+h1{
+	color: blue
+}
+
+table{
+    margin-left: 250px
+}
+
+#a1{
+	float: right;
+}
