@@ -26,3 +26,12 @@ The aim of the project is to create an online job portal, where the employee can
   - Employee can search jobs based on the job name, where they can give a part of the name and all jobs matching the criteria will be filtered and displayed to the user
   - Employee can view all the jobs that they have already applied
   - After applying for a job, an email notification would be send to the user giving all the details of the applied job
+
+  ### Employee Email Notifiation
+
+  ![Picture](https://github.com/Niravra/careerexplore/blob/master/Assets/EmailNotification.png)
+
+  ### Hibernate Database Mapping
+
+  ![Picture](https://github.com/Niravra/careerexplore/blob/master/Assets/JobPortalSQLMapping.png)
+  
