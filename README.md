@@ -1,4 +1,4 @@
-                                                    # Online Job Portal
+# Online Job Portal
 
 A Job Portal website using spring and hibernate for making the job search relevant by controlling the approved companies
 
