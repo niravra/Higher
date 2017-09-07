@@ -1,11 +1,13 @@
-                                                    #Online Job Portal
+                                                    # Online Job Portal
 
 A Job Portal website using spring and hibernate for making the job search relevant by controlling the approved companies
 
-###Summary
+### Summary
+
 The aim of the project is to create an online job portal, where the employee can view, search and apply for the jobs posted by the respective employers. The applied jobs will be added to the individual employee section and they will be notified via email about the jobs that they applied. 
 
-###Functionalities
+### Functionalities
+
 **Admin**
   *Add the Companies that are to be listed in the portal*          
   *Delete the Companies from the portal, which will delete all associated data belonging to that company*
